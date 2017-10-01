@@ -13,7 +13,7 @@ Begin{
     }
 
     Else {
-        Write-Error -Message 'Cannot find Outlook 2013 or 2016 in the Registry - Check installation and try again'
+        Write-Warning -Message 'Cannot find Outlook 2013 or 2016 in the Registry - Check installation and try again'
         Exit (Start-Sleep -Seconds 5)
     }
 }
