@@ -36,8 +36,7 @@ I selected Trello as an example as it has an application ID that is not standard
             d-----        7/11/2018  11:46 AM                assets
             -a----        7/11/2018  11:46 AM         243939 AppxBlockMap.xml
             -a----        7/11/2018  11:46 AM           1855 AppxManifest.xml
-            -a----        7/11/2018  11:46 AM          11212 AppxSignature.p7x
-#>    
+            -a----        7/11/2018  11:46 AM          11212 AppxSignature.p7x    
 
 #An over-engineerd Script for Example One
 
